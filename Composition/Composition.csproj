@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>3xhumed-Mega-Games-Pack-39-Star-Wars-Shadows-of-the-Empire-2.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="3xhumed-Mega-Games-Pack-39-Star-Wars-Shadows-of-the-Empire-2.ico" />
+  </ItemGroup>
+
+</Project>
